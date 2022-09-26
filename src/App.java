@@ -3,7 +3,7 @@ public class App {
         Persona persona = new Persona();
         persona.setEdad(36);
         persona.setNombre("David");
-        persona.setTelefono(3186796130l);
+        persona.setTelefono(3186796130L);
         System.out.println(persona.getEdad());
         System.out.println(persona.getNombre());
         System.out.println(persona.getTelefono());
